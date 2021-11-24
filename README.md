@@ -1,4 +1,4 @@
-# Rheostat - Test
+# Rheostat
 Try
 ## Initialize
 
