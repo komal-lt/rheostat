@@ -6,7 +6,7 @@ export default {
   getValue(pos, min, max) {
     const decimal = pos / 100;
 
-    if (pos === 0) {
+    if (pos !== 0) {
       return min;
     }
 
