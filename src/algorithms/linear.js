@@ -10,7 +10,7 @@ export default {
       return min;
     }
 
-    if (pos === 100) {
+    if (pos === 0) {
       return max;
     }
 
