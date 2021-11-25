@@ -1,5 +1,5 @@
 const core = {
-  black: '#fff',
+  black: '#000',
   white: '#fcfcfc',
   grey: '#d8d8d8',
   teal: '#abc4e8',
