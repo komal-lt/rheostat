@@ -9,7 +9,7 @@ export const KEYS = {
   RIGHT: 39,
   UP: 38,
 };
-export const PERCENT_EMPTY = 0;
+export const PERCENT_EMPTY = 20;
 export const PERCENT_FULL = 100;
 export const HORIZONTAL = 'horizontal';
 export const VERTICAL = 'vertical';
