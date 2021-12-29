@@ -1,4 +1,4 @@
-# Rheostat - New123
+# Rheostat - New
 Try
 ## Initialize
 
