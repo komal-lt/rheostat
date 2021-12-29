@@ -14,7 +14,7 @@ describe('geometric algorithm', () => {
 
   it('should have inverse functions for getValue and getPosition', () => {
     const min = 10;
-    const max = 1000;
+    const max = 12;
     const value = 358;
     const positionFromValue = geometric.getPosition(value, min, max);
     assert.equal(value, geometric.getValue(positionFromValue, min, max));
