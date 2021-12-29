@@ -10,6 +10,6 @@ export const KEYS = {
   UP: 38,
 };
 export const PERCENT_EMPTY = 0;
-export const PERCENT_FULL = 10;
+export const PERCENT_FULL = 100;
 export const HORIZONTAL = 'horizontal';
 export const VERTICAL = 'vertical';
