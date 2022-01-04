@@ -1,5 +1,5 @@
 ----
-framework: jest
+framework: jest1
 blacklist:
   - "test/algorithms/geometric-test.js##new geometric algorithm##internal new geometric algorithm"
 modifiers:
